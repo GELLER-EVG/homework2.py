@@ -1,9 +1,9 @@
-name="Evgenia"
-print(name)
+home_work = 12
 
-age=25
-print(age)
-print(age+1)
+time = 1.5
 
-is_student="true"
-print(is_student)
+name = "Python"
+
+time_home_work=(time / home_work )
+
+print(name, home_work,  time, time_home_work)
